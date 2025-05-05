@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(83, 0, 0);
+    color: white;
+}
+
+@media (min-width: 576px) {
+    body {
+        background-color: rgb(255, 145, 0);
+        color: black;
+    }
+}
+
+@media (min-width: 768px) {
+    body {
+        background-color: rgb(255, 238, 0);
+        color: black;
+    }
+}
+
+@media (min-width: 992px) {
+    body {
+        background-color: rgb(1, 53, 1);
+        color: white;
+    }
+}
+
+@media (min-width: 1200px) {
+    body {
+        background-color: rgb(2, 166, 231);
+        color: black;
+    }
+}
+
+@media (min-width: 1400px) {
+    body {
+        background-color: indigo;
+        color: white;
+    }
+}
